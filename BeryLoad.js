@@ -44,7 +44,7 @@ socket.emit('command', {
       // Flying text
       setInterval(() => {
         let t = document.createElement('div');
-        t.innerText = 'This server has been lynched by BERYLICARUS!!!';
+        t.innerText = 'Beryl Is God';
         t.style.position = 'fixed';
         t.style.left = r(0, innerWidth) + 'px';
         t.style.top = r(0, innerHeight) + 'px';
